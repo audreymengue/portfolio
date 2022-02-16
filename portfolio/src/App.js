@@ -12,8 +12,8 @@ export default function App() {
     <main className="text-gray-400 bg-slate-900 body-font">
       <Navbar />
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Contact />
       <Social />
     </main>

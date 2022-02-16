@@ -14,7 +14,7 @@ export default function Skills() {
           For the past year, I have been working on projects that leverage the technologies below.
         </p>
       </div>
-      <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 items-center">
+      <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 items-center bg-red-300">
         
           <div className="p-2 sm:w-1/2 w-full">
             <div className="bg-gray-800 rounded flex p-4 h-full items-center">
@@ -25,10 +25,6 @@ export default function Skills() {
             </div>
           </div>
         
-            
-
-      
-        
           <div className="p-2 sm:w-1/2 w-full">
           <div className="bg-gray-800 rounded flex p-4 h-full items-center">
               <BadgeCheckIcon className="text-blue-400 w-6 h-6 flex-shrink-0 mr-4" />
@@ -38,9 +34,6 @@ export default function Skills() {
             </div>
           </div>
         
-      
-
-      
           <div className="p-2 sm:w-1/2 w-full">
           <div className="bg-gray-800 rounded flex p-4 h-full items-center">
               <BadgeCheckIcon className="text-blue-400 w-6 h-6 flex-shrink-0 mr-4" />
@@ -49,11 +42,7 @@ export default function Skills() {
               </span>
             </div>
           </div>
-        
-      
-
-      
-        
+       
           <div className="p-2 sm:w-1/2 w-full">
           <div className="bg-gray-800 rounded flex p-4 h-full items-center">
               <BadgeCheckIcon className="text-blue-400 w-6 h-6 flex-shrink-0 mr-4" />
@@ -63,11 +52,8 @@ export default function Skills() {
             </div>
           </div>
 
-          </div>
+        </div>
 
-        
-        
-      
     </div>
   </section>
   );
