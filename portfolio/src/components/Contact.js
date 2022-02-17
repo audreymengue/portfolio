@@ -5,7 +5,7 @@ export default function Contact() {
      
         
     <section id="contact" className=" bg-blue-600 grid grid-cols-1">
-     
+     <div className="container px-5 py-10 mx-auto">
       <form
         netlify
         name="contact"
@@ -57,7 +57,7 @@ export default function Contact() {
           Submit
         </button>
       </form>
-    
+      </div>
   </section>
   
 );
