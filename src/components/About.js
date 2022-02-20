@@ -16,14 +16,14 @@ export default function About() {
                 </p>
                 <div className="flex justify-center">
                   <a
-                    href="#contact"
+                    href="mailto:massoumeharmonie@gmail.com"
                     className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
-                    Hire me today
+                    Email me today
                   </a>
                   <a
                     href="#projects"
                     className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                    List of projects
+                    View projects
                   </a>
                 </div>
               </div>
