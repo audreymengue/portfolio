@@ -11,9 +11,9 @@ export default function Social() {
       </div>
 
       <div className="flex justify-center space-x-8">
-      <a href="https://twitter.com/la_mengs" className="mb-10"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png" alt="twitter"/></a>
-      <a href="https://www.linkedin.com/in/audreyhmmengue/"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="linkedin"/></a>
-      <a href="https://github.com/audreymengue"><img src="https://img.icons8.com/ios/50/000000/github--v1.png" alt="github"/></a>
+      <a href="https://twitter.com/la_mengs" className="mb-10" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/twitter--v1.png" alt="twitter"/></a>
+      <a href="https://www.linkedin.com/in/audreyhmmengue/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="linkedin"/></a>
+      <a href="https://github.com/audreymengue" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/github--v1.png" alt="github"/></a>
       
       
       
