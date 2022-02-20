@@ -1,5 +1,5 @@
-import React from "react";
-import { MailIcon} from "@heroicons/react/solid";
+import React from "react"
+import { MailIcon} from "@heroicons/react/solid"
 
 
 export default function Navbar() {
