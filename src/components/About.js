@@ -8,7 +8,7 @@ export default function About() {
               <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                 <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                   Hi there and welcome! 
-                  <br className="hidden lg:inline-block" />I'm Audrey. A software engineer.
+                  <br className="hidden lg:inline-block" /> I'm Audrey. A software engineer.
                 </h1>
                 <p className="mb-8 leading-relaxed">
                 I am based in Accra, Ghana and hold a Bsc in Information Technology as well as <br/>  a certification in Microsoft Azure. 

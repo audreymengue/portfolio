@@ -4,7 +4,7 @@ export default function Social() {
     return (
       <div id="social" className="bg-blue-500">
       <div className="text-center mb-10">
-        <h1 className="sm:text-4xl text-3xl font-medium title-font text-white ">
+        <h1 className="sm:text-4xl text-3xl font-medium title-font text-white">
           Let's connect
         </h1>
 

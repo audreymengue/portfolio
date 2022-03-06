@@ -10,7 +10,7 @@ export default function Projects() {
             <div className="text-center mb-10">
               <CodeIcon className="w-10 inline-block mb-4" />
               <h1 className="sm:text-4xl text-3xl font-medium title-font text-slate-900 mb-4">
-                Projects protfolio
+                Projects portfolio
               </h1>
               <p className="text-slate-600 leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
                 Here is the list of my top four(4) projects. You can view the hosted projects and access the code on github.
@@ -31,9 +31,9 @@ export default function Projects() {
 <div class="p-2 sm:w-1/2 w-full">
   <div class="px-6 py-4 bg-gray-800 rounded-lg ">
     <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Dashbaord</h4>
-    <p class="leading-normal text-white">Lorem ipsum dolor, sit amet cons ectetur adipis icing elit. Praesen tium, quibusdam facere quo laborum maiores sequi nam tenetur laud.</p>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects">View project</a>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects">View code</a>
+    <p class="leading-normal text-white">Dashboard is a site that displays your data in a very nice and explicit way. Site still unde construction.</p>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://audreymdashboard.netlify.app/">View project</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/dashboard">View code</a>
   </div>
 </div>
 
