@@ -23,17 +23,17 @@ export default function Projects() {
   <div class="px-6 bg-gray-800 py-4 rounded-lg ">
     <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Touch by Kren</h4>
     <p class="leading-normal text-white">Touch by Kren is a hairdressing website built with React and Tailwind CSS to showcase the different hairsyles to potential clients.</p>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://touchbykren.netlify.app">View project</a>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/touchbykren">View code</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://touchbykren.netlify.app" target="_blank" rel="noreferrer">View project</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/touchbykren" target="_blank" rel="noreferrer">View code</a>
   </div>
 </div>
 
 <div class="p-2 sm:w-1/2 w-full">
   <div class="px-6 py-4 bg-gray-800 rounded-lg ">
     <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Dashbaord</h4>
-    <p class="leading-normal text-white">Dashboard is a site that displays your data in a very nice and explicit way. Site still unde construction.</p>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://audreymdashboard.netlify.app/">View project</a>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/dashboard">View code</a>
+    <p class="leading-normal text-white">Dashboard is a site that displays your data in a very nice and explicit way. Site still under construction.</p>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://audreymdashboard.netlify.app/" target="_blank" rel="noreferrer">View project</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/dashboard" target="_blank" rel="noreferrer">View code</a>
   </div>
 </div>
 
@@ -41,8 +41,8 @@ export default function Projects() {
   <div class="px-6 py-4 bg-gray-800 rounded-lg">
     <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Ecommerce</h4>
     <p class="leading-normal text-white">Lorem ipsum dolor, sit amet cons ectetur adipis icing elit. Praesen tium, quibusdam facere quo laborum maiores sequi nam tenetur laud.</p>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects">View project</a>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects">View code</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects" target="_blank" rel="noreferrer">View project</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects" target="_blank" rel="noreferrer">View code</a>
   </div>
 </div>
 
@@ -50,8 +50,8 @@ export default function Projects() {
   <div class="px-6 py-4 bg-gray-800 rounded-lg">
     <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Restaurant </h4>
     <p class="leading-normal text-white">Lorem ipsum dolor, sit amet cons ectetur adipis icing elit. Praesen tium, quibusdam facere quo laborum maiores sequi nam tenetur laud.</p>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects">View project</a>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects">View code</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects" target="_blank" rel="noreferrer">View project</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="link to projects" target="_blank" rel="noreferrer">View code</a>
   </div>
 </div>
 
