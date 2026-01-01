@@ -30,10 +30,10 @@ export default function Projects() {
 
 <div class="p-2 sm:w-1/2 w-full">
   <div class="px-6 py-4 bg-gray-800 rounded-lg ">
-    <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Dashbaord</h4>
-    <p class="leading-normal text-white">Dashboard is a site that displays your data in a very nice and explicit way. Site still under construction. The project uses an external library to display the data in chart.</p>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://audreymdashboard.netlify.app/" target="_blank" rel="noreferrer">View project</a>
-    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/dashboard" target="_blank" rel="noreferrer">View code</a>
+    <h4 class="mb-3 text-xl font-semibold tracking-tight text-white">Microsoft User Group Gabon site</h4>
+    <p class="leading-normal text-white">This site helps volunteers and participants to keep up with the activities.</p>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/portfolio" target="_blank" rel="noreferrer">View project</a>
+    <a class="inline-flex items-center h-8 px-4 m-2 text-sm text-indigo-100 transition-colors duration-150 bg-blue-500 rounded-lg focus:shadow-outline hover:bg-indigo-800" href="https://github.com/audreymengue/portfolio" target="_blank" rel="noreferrer">View code</a>
   </div>
 </div>
 

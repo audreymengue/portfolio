@@ -11,7 +11,7 @@ export default function About() {
                   <br className="hidden lg:inline-block" /> I'm Audrey. A software engineer.
                 </h1>
                 <p className="mb-8 leading-relaxed">
-                I am based in Accra, Ghana and hold a Bsc in Information Technology as well as <br/>  a certification in Microsoft Azure. 
+                I am based in Libreville, Gabon and hold a Bsc in Information Technology as well as <br/>  a certification in Microsoft Azure. 
                 During my spare time, I volunteer with local and <br/>  international communities as a speaker.
                 </p>
                 <div className="flex justify-center">

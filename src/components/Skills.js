@@ -32,7 +32,7 @@ export default function Skills() {
           <div className="bg-gray-800 rounded flex p-4 h-full items-center">
               <BadgeCheckIcon className="text-blue-500 w-6 h-6 flex-shrink-0 mr-4" />
               <span className="title-font font-medium text-white">
-                <p>React</p>
+                <p>Angular</p>
               </span>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function Skills() {
           <div className="bg-gray-800 rounded flex p-4 h-full items-center">
               <BadgeCheckIcon className="text-blue-500 w-6 h-6 flex-shrink-0 mr-4" />
               <span className="title-font font-medium text-white">
-                <p>Azure </p>
+                <p>Boostrap</p>
               </span>
             </div>
           </div>
@@ -51,6 +51,24 @@ export default function Skills() {
               <BadgeCheckIcon className="text-blue-500 w-6 h-6 flex-shrink-0 mr-4" />
               <span className="title-font font-medium text-white">
                 <p>Tailwinds </p>
+              </span>
+            </div>
+          </div>
+
+          <div className="p-2 sm:w-1/2 w-full">
+          <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+              <BadgeCheckIcon className="text-blue-500 w-6 h-6 flex-shrink-0 mr-4" />
+              <span className="title-font font-medium text-white">
+                <p>Git </p>
+              </span>
+            </div>
+          </div>
+
+          <div className="p-2 sm:w-1/2 w-full">
+          <div className="bg-gray-800 rounded flex p-4 h-full items-center">
+              <BadgeCheckIcon className="text-blue-500 w-6 h-6 flex-shrink-0 mr-4" />
+              <span className="title-font font-medium text-white">
+                <p>Docker </p>
               </span>
             </div>
           </div>
